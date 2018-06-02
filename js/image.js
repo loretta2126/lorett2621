@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <script>
 function initComparisons() {
   var x, i;
@@ -75,5 +76,4 @@ function initComparisons() {
     }
   }
 }
-</script>
-</head>
+  </script>
