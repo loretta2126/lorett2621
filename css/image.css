@@ -1,6 +1,4 @@
- <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
+
 * {box-sizing: border-box;}
 .img-comp-container {
   position: relative;
@@ -27,4 +25,4 @@
   opacity: 0.7;
   border-radius: 50%;
 }
-</style>
+
