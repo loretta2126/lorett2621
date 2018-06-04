@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<script>
 function initComparisons() {
   var x, i;
   /*find all elements with an "overlay" class:*/
@@ -76,4 +74,3 @@ function initComparisons() {
     }
   }
 }
-  </script>
