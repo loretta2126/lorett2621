@@ -106,7 +106,7 @@ img::-moz-selection {
  font-family:Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif
 }
 #mainNav .navbar-nav .nav-item .nav-link.active,#mainNav .navbar-nav .nav-item .nav-link:hover {
- color:#1f86a3
+ color:#154f79
 }
 @media (min-width:992px) {
  #mainNav {
